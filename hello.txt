@@ -1,1 +1,2 @@
 Welcome to SRTechOps Git Training
+DevOps is a Culture 
